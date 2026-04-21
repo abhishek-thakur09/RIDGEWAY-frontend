@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://my-app-backend.onrender.com",
+  baseURL: "https://ridgeway-backend.onrender.com",
   withCredentials: true,   
 });
 
